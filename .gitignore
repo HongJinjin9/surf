@@ -35,3 +35,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
